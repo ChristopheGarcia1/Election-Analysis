@@ -45,15 +45,21 @@ with open(file_to_load) as election_data:
         
         #count each vote per row
         Candidate_votes[candidate_name] += 1
+    for candidate_name in Candidate_votes:
+        votes = Candidate_votes[candidate_name]
+        vote_percentage = float(votes)/float(total_votes)*100
+        vote_percentage = round(vote_percentage, 1)
+        print(f"{candidate_name}: recieved {vote_percentage}% of the vote")
+    
     
 # print the dictionary
-print(Candidate_votes)
+#print(Candidate_votes)
 
 #print candidate list
-print(candidate_options) 
+#print(candidate_options) 
 
 #print total_votes
-print(total_votes)
+#print(total_votes)
 
 # Print the file object
 #print(election_data)
