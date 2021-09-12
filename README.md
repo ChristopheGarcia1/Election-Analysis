@@ -8,5 +8,6 @@ The purpose of the election audit was to analyize and break down the election re
 
 ### Analyzed outcomes of the election are as follows
 
-* The total count of votes for the congretional election totaled 
+* The total count of votes for the congretional election totaled 361,711 votes tallied across the counties of Arapahoe, Jefferson, and Denver 
+* 
 
