@@ -29,6 +29,6 @@ The purpose of the election audit was to analyize and break down the election re
 
 ## Election Audit Summary
 
-The election comission could use my scripts to break down not only these election results, but for other elections as well and repurpose the code to further breakdown the data into more detail. Politcal elections can be broken down in many ways, and with this data set in particular, we could break down the amount of votes each candidate recieved in each county as well to breakdown which candidates recieved the most votes in which counties. This can be used to help future running candidates figure out which counties to target and where they lie in the political spectrum. 
+The election commission could use my script to break down not only these election results, but for other elections as well and repurpose the code to further breakdown the data into more detail. Politcal elections can be broken down in many ways, and with this data set in particular, we could break down the amount of votes each candidate recieved in each county as well to breakdown which candidates recieved the most votes in which counties. This can be used to help future running candidates figure out which counties to target and where they lie in the political spectrum. 
 
-Along with the script editing, each candidate could be 
+Along with the script editing, each candidate could be broken down by party, and dictionaries could be nested to contain more infomation about the candidates to further look at different characteristics about each candidate to see if trends developed in counties such as age and political affiliations. This code can be very versitile in its functions if more information was put in for candidates and would help find further underlying trends.
